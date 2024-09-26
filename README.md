@@ -1,5 +1,8 @@
 **SpeakScan Voice**
 
+![Alt Text](relative/path/to/screenshot.png)
+
+
 **Overview**
 
 **SpeakScan Voice** is an innovative iOS app designed to break language barriers by combining powerful Optical Character Recognition (OCR) and Speech-to-Text technologies. Whether you need to convert text from an image or transcribe spoken words, SpeakScan Voice offers a seamless user experience for translating any language to another, making it a perfect tool for travelers, learners, and multilingual communication.
