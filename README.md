@@ -1,6 +1,6 @@
 **SpeakScan Voice**
 
-![Alt Text](relative/path/to/screenshot.png)
+![Alt Text](1.png)
 
 
 **Overview**
