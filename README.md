@@ -51,7 +51,7 @@ Translate: Once the text (from OCR or speech) is captured, select your preferred
 bash
 **Copy code**
 
-git clone https://github.com/your-username/SpeakScan-Voice.git
+git clone https://github.com/MoinJanjua/SpeakScan-Voice.git
 
 Open the project in Xcode and install necessary dependencies (if any).
 Run the app on the simulator or on a real device to test OCR, speech-to-text, and translation features.
